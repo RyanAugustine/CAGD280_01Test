@@ -4,5 +4,12 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-   //implement player movement
+    //implement player movement
+
+    public float speed;
+
+    private void MovePlayer()
+    {
+        //moves the player
+    }
 }
